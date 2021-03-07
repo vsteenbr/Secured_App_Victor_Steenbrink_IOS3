@@ -6,6 +6,8 @@ coordonnées de l'ID correspondant.
 Les données sont stockées par le biai de sharedpreference pour que lorsque l'utilisateur 
 redémarre l'appli, les données affichées en lignes peuvent etre affichées hors-ligne.
 
+Pour effectuer mes requetes sur l'API j'ai utilisé retrofit.
+
 Pour cacher l'url j'ai voulu la stocker dans une variable d'environnement en utilisant DOTENV 
 mais je n'ai pas réussi a manipuler correctement, des commandes de DOTENV ne marchaient pas.
 
